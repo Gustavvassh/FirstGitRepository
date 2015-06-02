@@ -11,5 +11,5 @@
 @interface ViewController : UIViewController
 
 @property(nonatomic,strong) IBOutlet UIButton *testButton;
+@property(nonatomic,strong) IBOutlet UILabel *lbl;
 @end
-
